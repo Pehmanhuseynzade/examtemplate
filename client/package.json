@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "antd": "^5.5.1",
+    "axios": "^1.4.0",
+    "formik": "^2.3.2",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^6.11.2",
+    "sass": "^1.62.1",
+    "yup": "^1.2.0"
+  }
+}
